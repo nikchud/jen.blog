@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 title: [Jenya Chudnova]
 description: [Professional Not sleeper]
+github:
+  is_project_page: false
 defaults:
   - scope:
       path: "assets/img"
