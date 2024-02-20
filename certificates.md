@@ -1,2 +1,3 @@
 ... which is shown in the screenshot below:
-![My helpful screenshot]({{ site.url }}/assets/img/kir.jpg)
+
+![My husband's face](/jen.blog/assets/img/kir.jpg)
